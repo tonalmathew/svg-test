@@ -2,14 +2,14 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-<!-- 				@keyframes rotate {
+				@keyframes rotate {
 					0% {
 						transform: rotate(3deg);
 					}
 					100% {
 						transform: rotate(-3deg);
 					}
-				} -->
+				}
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -21,7 +21,7 @@
 						background-position: 0% 50%;
 					}
 				}
-<!-- 				@keyframes fadeIn {
+				@keyframes fadeIn {
 					0% {
 						opacity: 0;
 					}
@@ -31,8 +31,8 @@
 					100% {
 						opacity: 1;
 					}
-				} -->
-<!-- 				.container {
+				}
+				.container {
 					font-family:
 						system-ui,
 						-apple-system,
@@ -56,7 +56,7 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
-				} -->
+				}
 				
 			</style>
 			<div class="container">
