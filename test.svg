@@ -41,6 +41,10 @@
 					text-align: center;
 				}
 				
+				h2{
+				font-size: 100px;
+				}
+				
 			</style>
 			<div class="container">
 				<h2 align="center">Hi there!👋 I'm Tonal..!</h2>
